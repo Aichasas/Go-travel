@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DAM2",
-    "slug": "DAM2",
+    "name": "dam2",
+    "slug": "dam2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
