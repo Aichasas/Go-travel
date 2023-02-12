@@ -15,7 +15,7 @@ const MenuContainer = ({ title, imageSrc, type, setType }) => {
       >
         <Image source={imageSrc} className="w-full h-full object-contain" />
       </View>
-      <Text className="text-[#00BCC9] text-xl font-semibold">{title}</Text>
+      <Text className="text-[#87097D] text-xl font-semibold">{title}</Text>
     </TouchableOpacity>
   );
 };
